@@ -1,0 +1,4 @@
+(library
+ (name vortex)
+ (public_name Vortex)
+ (libraries yojson ANSITerminal sdl2))

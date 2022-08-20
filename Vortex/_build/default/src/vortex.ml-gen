@@ -1,0 +1,14 @@
+(** @canonical Vortex.Author *)
+module Author = Vortex__Author
+
+
+(** @canonical Vortex.File *)
+module File = Vortex__File
+
+
+(** @canonical Vortex.Predict *)
+module Predict = Vortex__Predict
+
+
+(** @canonical Vortex.Tools *)
+module Tools = Vortex__Tools
